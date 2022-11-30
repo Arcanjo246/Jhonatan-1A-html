@@ -1,12 +1,13 @@
 
-
-p{
-            text-align: center;
-        }
-
-        h3{
-            color: purple; front size 
-        }
-        strong{
-            color: red;
-        }
+header{
+     background: rebeccapurple;
+ }
+ p{
+     text-align: center;
+     }
+     h3{
+       color: purple; front size 
+     }
+     strong{
+        color: red;
+     }
