@@ -1,12 +1,15 @@
 
-header{
-     background: rebeccapurple;
- }
- p{
-     text-align: center;
+     header{
+        background: powderblue;
+     }
+     nav li{
+        display: inline;
+     }
+     p{
+       text-align: center;
      }
      h3{
-       color: purple; front size 
+       color: purple; text-align: center; font-size: 40px;
      }
      strong{
         color: red;
