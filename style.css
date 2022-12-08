@@ -4,6 +4,7 @@
      }
      nav li{
         display: inline;
+        margin: 0 0 0 18px;
      }
      p{
        text-align: center;
@@ -13,4 +14,7 @@
      }
      strong{
         color: red;
+     }
+     h4{
+       color: slateblue; 
      }
